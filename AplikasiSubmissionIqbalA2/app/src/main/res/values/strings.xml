@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Aplikasi Submission IqbalA</string>
+    <string name="nama_kereta">Nama Kereta</string>
+    <string name="keterangan_kereta">Keterangan</string>
+    <string name="about_me">About Me</string>
+    <string name="iqbal">Iqbal Abdurrahman Saleh</string>
+    <string name="email_iqbal">rahman.saleh7@gmail.com</string>
+    <string name="back">Kembali</string>
+    <string name="judul_kereta_api_uap">Kereta Api Uap</string>
+    <string name="judul_kereta_api_bawahtanah">Kereta Api Bawah tanah</string>
+    <string name="judul_kereta_api_bb204">Kereta Api BB204</string>
+    <string name="judul_kereta_api_cc200">Kereta Api CC200</string>
+    <string name="judul_kereta_api_dayamagnet">Kereta Api Daya Magnet</string>
+    <string name="judul_kereta_api_diesel">Kereta Api Diesel</string>
+    <string name="judul_kereta_api_monorail">Kereta Api Mono Rail</string>
+    <string name="judul_kereta_api_rellistrik">Kereta Api Rel Listrik</string>
+    <string name="judul_kereta_api_ringandijalan">Kereta Api Ringan Dijalan</string>
+    <string name="keterangan_keretaapiuap"><p>Kereta api uap adalah kereta api yang digerakkan dengan uap air yang dibangkitkan/dihasilkan dari ketel uap yang dipanaskan dengan kayu bakar, batu bara ataupun minyak bakar, oleh karena itu kendaraan ini dikatakan sebagai kereta api dan terbawa sampai sekarang.</p>\n
+        \n<p>Sejak pertama kali kereta api dibangun di Indonesia tahun 1867 di Semarang telah memakai lokomotif uap, pada umumnya dengan lokomotif buatan Jerman, Inggris, Amerika Serikat dan Belanda.Paling banyak ialah buatan Jerman.</p>\n
+        \n<p>Untuk menggerakkan roda kereta api uap air dari ketel uap dialirkan ke ruang dimana piston diletakkan, uap air masuk akan menekan piston untuk bergerak dan di sisi lain diruang piston uap air yang berada diruang tersebut didorong keluar demikian seterusnya. Uap air diatur masuk kedalam ruang piston oleh suatu mekanime langsung seperti ditunjukkan dalam gambar. Selanjutnya piston akan menggerakkan roda mealui mekanisme gerakan maju mundur menjadi gerak putar.</p>
+    </string>
+    <string name="keterangan_keretaapibawahtanah"><p>Kereta api bawah tanah adalah kereta api yang berjalan dalam terowongan dibawah permukaan tanah, merupakan solusi yang ditempuh untuk mengatasi persilangan sebidang.</p>\n
+        \n<p>Biasanya dikembangkan dikawasan perkotaan yang padat, seperti yang sekarang sedang direncanakan di Jakarta, dan sudah berkembang lebih dari seabad di kota London, Paris, NewYork, Tokyo dan berbagai kota-kota besar dunia.</p>\n
+        \n<p>Dengan dibangunnya kereta api bawah tanah maka ruangkota yang berada dibawah permukaan tanah masih bisa dimanfaatkan, stasiun juga dimanfaatkan untuk kegiatan/pertokoan/perkantoran dibawah tanah.</p>\n
+        \n<p>Pembangunan kereta api bawah tanah ini masih bisa dilakukan beberapa lapis, semakin banyak lapisan semakin dalam letak stasiun, bahkan bisa dibangun sampai 100 m dibawah permukaan tanah.</p>\n
+        \n<p>Untuk menuju kedalam stasiun biasanya digunakan tangga berjalan yang cukup lebar dimana penumpang yang ingin tetap berjalan pada tangga berjalan menggunakan bagian kiri tangga berjalan sedangkan bagian kanan digunakan untuk penumpang yang tidak mau berjalan selama berada diatas tangga berjalan.</p>\n
+        \n<p>Jakarta direncanakan untuk membuka lintas kereta api bawah tanah yang pertama pada tahun 2016 yang akan datang dengan lintasan sepanjang 15 km tetapi hanya kurang dari separohnya berada dibawah tanah, karena pertimbangan keuangan negara yang masih sangat terbatas.</p>
+    </string>
+    <string name="keterangan_keretaapibb204"><p>Lokomotif BB 204 merupakan satu-satunya lokomotif diesel elektrik di Indonesia buatan Schweizerische Lokomotiv- und Maschinenfabrik (SLM), Swiss yang khusus dioperasikan pada jalan rel bergigi. Lokomotif ini sudah ada di Indonesia sejak 1981.</p>\n
+        \n<p>Lokomotif ini berdaya mesin sebesar 1.230 hp dengan susunan gandar lokomotif ini adalah Bo two Bo, artinya dua bogie dengan dua gandar penggerak dan satu bogie idle dengan dua gandar. Lokomotif ini terdapat di Divisi Regional II Sumatra Barat yang relnya bergigi.</p>\n
+        \n<p>Pada era dieselisasi lokomotif Indonesia, Perusahaan Jawatan Kereta Api (PJKA) mendatangkan lokomotif BB204 dari Swiss Locomotive and Machine Works (SLM), Swiss yang dioperasikan untuk mengganti lokomotif uap E10.</p>\n
+        \n<p>Lokomotif ini terbagi menjadi tiga kedatangan, angkatan pertama didatangkan pada tahun 1982 sebanyak empat unit, angkatan kedua didatangkan pada tahun 1984 sebanyak enam unit, dan 1993 didatangkan sebanyak tujuh unit.</p>\n
+        \n<p>Lokomotif ini pada awalnya ditugaskan untuk menarik angkutan batu bara di lintas rel bergigi di Sumatra Barat. Setelah tambang batu bara berhenti beroperasi, banyak diantara lokomotif ini yang berhenti beroperasi. Namun, sebagian dari lokomotif ini masih siap operasi ditugaskan untuk menarik kereta penumpang kelas ekonomi, angkutan semen, dan kereta wisata.</p>\n
+        \n<p>Saat ini, seluruh unit lokomotif BB204 dalam keadaan tidak siap operasi. Seluruh unit BB204 01 sampai BB204 17 kecuali BB204 15 dan BB204 16 bersama sembilan unit kereta penumpang K1 dan K3 buatan Nippon Sharyo angkatan tahun 1958 kini ditumpuk di halaman Balai Yasa Padang. Sedangkan untuk BB204 15 dan BB204 16 sendiri masih berada di Dipo lokomotif Solok.</p>
+    </string>
+    <string name="keterangan_keretaapicc200"><p>Lokomotif CC200 dengan nomor model Alco-GE UM 106T adalah lokomotif diesel elektrik berkabin ganda pertama di Indonesia, buatan pabrik General Electric tahun 1953.</p>\n
+        \n<p>Lokomotif diesel elektrik dengan berat 96 ton ini dipesan oleh Indonesia sebanyak 27 buah. Lokomotif CC 200 yang tersisa sekarang berada di Museum Kereta Api Ambarawa yaitu CC 200 15 yang masih dirawat dengan baik untuk dilestarikan. Dua "saudara" terakhirnya, CC 200 08 dan CC 200 09 sudah dikirim ke Balai Yasa Yogyakarta setelah dinyatakan pensiun.</p>\n
+        \n<p>Lokomotif ini berdaya mesin sebesar 1.750 hp dengan susunan gandar lokomotif ini adalah Co two Co artinya, lokomotif ini memiliki dua bogie penggerak masing-masing dengan 3 gandar penggerak dengan 6 motor traksi dan satu bogie idle yang terdiri dari dua pasang roda.</p>\n
+        \n<p>Perlu diketahui bahwa meskipun lokomotif CC200 merupakan lokomotif diesel pertama di Indonesia sebagaimana banyak dijelaskan, ternyata ada sebuah lori diesel milik Pabrik Gula Gondang Winangoen yang akhirnya ditetapkan sebagai lori diesel tertua di Indonesia. Lori ini bernama "Ajax", buatan Jerman tahun 1927 dan mulai beroperasi pada tahun 1929.</p>
+    </string>
+    <string name="keterangan_keretaapidayamagnet"><p>Kereta api ini disebut juga sebagai Maglev sebagai singkatan dari Magnetic Levitation dimana kereta diangkat dengan menggunakan medan magnit dan didorong dengan medan magnit juga.</p>\n
+        \n<p>Karena kereta terangkat dan bergerak berdasarkan medan magnit sehingga tidak ada gesekan sama sekali dengan infrastuktur. Kereta maglev dapat berjalan pada kecepatan yang sangat tinggi. Tehnologi ini sudah diterapkan secara komersil pada lintas antara Bandara Internasional Pudong dengan kota Shanghai yang dapat berjalan pada kecepatan sekitar 400 km/jam.</p>\n
+        \n<p>Sistem dengan kecepatan lebih rendah juga sudah diujikan di kota Nagoya menuju pusat pameran kota Nagoya yang disebut sebagai Linimo yang merupakan singkatan dari sistem penggeraknya yang disebut sebagai linier motor.</p>\n
+        \n<p>Permasalahan utama dalam pengembangan maglev ini adalah investasi awal yang sangat besar untuk membangun infrastruktur, khususnya untuk mempersiapkan medan magnit pada infrastrukturnya, sehingga sampai saat ini hanya terbangun secara komersil di Tiongkok dan belum dikembangkan secara komersil ditempat lain.</p>
+    </string>
+    <string name="keterangan_keretaapidiesel"><p>Kereta api diesel bisa dibagi atas dua kelompok yaitu:</p>\n
+        \n<p>1. Lokomotif diesel adalah jenis lokomotif yang bermesin diesel dan umumnya menggunakan bahan bakar mesin dari solar. Ada dua jenis utama kereta api diesel ini yaitu kereta api diesel hidraulik dan kereta api diesel elektrik.</p>\n
+        \n<p>2. Kereta rel diesel yaitu kereta yang dilengkapi dengan mesin diesel yang dipasang dibawah kabin, seperti halnya lokomotif diesel dapat dijalankan dengan kopling hidraulik ataupun dengan cara yang sama dengan diesel elektrik.</p>\n
+        <p>Salah satu penerapan yang baru saja diluncurkan dikota Solo adalah Railbus. Railbus ini sekaligus akan menjadi Railbus pertama yang beroperasi di pulau Jawa. Kereta khusus buatan PT Industri Kereta Api (INKA) Madiun tersebut akan beroperasi melayani rute Solo hingga Wonogiri.</p>\n
+        <p>Railbus tersebut terdiri dari satu rangkaian dengan tiga gerbong dengan kapasitas 160 orang, berkecepatan maksimum 100 km/jam dengan tenaga out-put sebesar 560 Kw yang dibangkitkan dari mesin yang dipasang di rangka bawah. Bus kereta tersebut juga dilengkapi dengan AC serta rak bagasi untuk penempatan barang penumpang.</p>
+    </string>
+    <string name="keterangan_keretaapimonorail"><p>Kereta api monorel (kereta api rel tunggal) adalah kereta api yang jalurnya tidak seperti jalur kereta yang biasa dijumpai yang terdiri dari 2 rel parallel tetapi hanya dari satu rel tunggal yang gemuk dengan profil sedemikian sehingga tidak menyebabkan kereta keluar dari relnya.</p>\n
+        \n<p>Rel kereta ini terbuat dari beton bertulang pratekan ataupun dari besi profil. Letak kereta api dapat didesain menggantung pada rel atau di atas rel. Karena efisien, biasanya digunakan sebagai alat transportasi kota khususnya di kota-kota metropolitan dunia dan dirancang mirip seperti jalan layang.</p>
+    </string>
+    <string name="keterangan_keretaapirellistrik"><p>Kereta Rel Listrik, disingkat KRL, merupakan kereta rel yang bergerak dengan sistem propulsi motor listrik. Di Indonesia, kereta rel listrik terutama ditemukan di kawasan Jabotabek, dan merupakan kereta yang melayani para komuter.</p>\n
+        \n<p>Kereta rel listrik berbeda dengan lokomotif listrik. Di Hindia Belanda, kereta rel listrik pertama kali dipergunakan untuk menghubungkan Batavia dengan Jatinegara atau Meester Cornelis pada tahun 1925. Pada waktu itu digunakan rangkaian kereta rel listrik sebanyak 2 kereta, yang bisa disambung menjadi 4 kereta, yang dibuat oleh Werkspoor dan Heemaf Hengelo.</p>\n
+        \n<p>Pada tahun 1960-an kereta api dengan tenaga listrik sempat tidak digunakan selama beberapa lama karena kondisi mesin lokomotif dan kereta yang tidak memadai lagi. Pada tahun 1976, PJKA mulai mendatangkan sejumlah kereta rel listrik dari Jepang. Kereta rel listrik yang kini digunakan di Indonesia dibuat pada tahun 1976, 1978, 1983, 1984, 1986, 1987, 1994, 1996, 1997, 1998, 1999, 2000 dan 2001.</p>\n
+        \n<p>Pada saat ini juga digunakan sejumlah kereta rel listrik yang merupakan hibah (hadiah) dari Pemerintah Kota Tokyo, dan sejumlah kereta yang dibeli bekas dari Jepang. PT Inka yang terletak di Madiun telah dapat membuat dua set kereta rel listrik yang disebut KRL-I Prajayana pada tahun 2001. Kereta rel listrik ini belum dibuat lebih banyak lagi, karena "tidak ekonomis" dan dianggap sering mogok.</p>\n
+        \n<p>Bagi PT Kereta Api, tampaknya lebih ekonomis untuk membeli KRL bekas dari Jepang.</p>
+    </string>
+    <string name="keterangan_keretaapiringandijalan"><p>Disebut juga LRT I, beroperasi di jalan bersama dengan lalu lintas kendaraan, tipe ini membutuhkan percepatan dan perlambatan mendekati performansi kendaraan bermotor. Kapasitas angkut kereta api ringan dari type ini sekitar 10 000 sampai dengan 30 000 penumpang per jam. Kecepatan perjalanan sekitar 15 sampai 20 km/jam. Karena beroperasi bersama lalu lintas kendaraan maka angka kecelakaan yang melibatkan kereta api ringan dari type ini cukup tinggi.</p>\n
+        \n<p>Trend terakhir yang berkembang untuk LRT seperti ini yaitu dengan penggunaan lantai rendah sehingga dapat melakukan turun naik penumpang yang lebih cepat.</p>
+    </string>
+</resources>
+
